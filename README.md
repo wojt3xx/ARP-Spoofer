@@ -7,3 +7,5 @@
 
 ## Example
 ![image](https://user-images.githubusercontent.com/108718585/196249379-b859a22c-7732-40fb-bd60-051823ec155a.png)
+
+DISCLAIMER: Projects and articles that I share are for EDUCATIONAL PURPOSES ONLY. Don't use them for illegal activities. You are the only responsible for your actions!
